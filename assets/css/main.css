@@ -8606,7 +8606,7 @@ img {vertical-align: middle;}
 		display: inline-block;
 		position: relative;
 	}
-.slideshow-container.image.onload-fade-in article:nth-child(2) .image img {
+/*.slideshow-container.image.onload-fade-in article:nth-child(2) .image img {
 		-moz-transition-delay: 0.15s;
 		-webkit-transition-delay: 0.15s;
 		-ms-transition-delay: 0.15s;
@@ -8651,7 +8651,7 @@ img {vertical-align: middle;}
 
 			.slideshow-container.image.main img {
 				width: 100%;
-			}
+			}*/
 
 /* Next & previous buttons */
 .prev, .next {
