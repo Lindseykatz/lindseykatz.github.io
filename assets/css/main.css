@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
+@import url("https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two|Thasadith&display=swap");
 
 /*
 	Story by HTML5 UP
@@ -157,7 +158,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: 'Thasadith', sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
@@ -191,7 +192,15 @@ input, select, textarea {
 			font-size: 1.25rem;
 		}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2 {
+		font-family: 'Shadows Into Light Two', cursive;
+		font-weight: 30;
+		line-height: 1.375;
+		margin: 0 0 1rem 0;
+	}
+
+	h3, h4, h5, h6 {
+		font-family: 'Thasadith', sans-serif;
 		font-weight: 300;
 		line-height: 1.375;
 		letter-spacing: -0.05em;
