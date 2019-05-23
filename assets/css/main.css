@@ -8591,9 +8591,7 @@ input, select, textarea {
 			}
 
 .mySlides {display: none}
-img {
-		display: inline-block;
-		position: relative;}
+img {vertical-align: middle;}
 
 /* Slideshow container */
 
@@ -8601,7 +8599,6 @@ img {
 .slideshow-container {
 /*  max-width: 1000px;*/
   position: relative;
-	display: inline-block;
   margin: auto;
 }
 
@@ -8792,3 +8789,4 @@ a:focus {
   background-color: #98b9bb; /* For browsers that do not support gradients */
   background-image: linear-gradient(white, #98b9bb); /* Standard syntax (must be last) */
 }
+
